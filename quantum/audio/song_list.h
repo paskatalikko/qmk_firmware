@@ -146,6 +146,46 @@
  */
 #define USSR_ANTHEM B__NOTE(_G6), B__NOTE(_C7), W__NOTE(_G6), H__NOTE(_A6), B__NOTE(_B6), W__NOTE(_E6), W__NOTE(_E6), B__NOTE(_A6), W__NOTE(_G6), H__NOTE(_F6), B__NOTE(_G6), W__NOTE(_C6), W__NOTE(_C6), B__NOTE(_D6), W__NOTE(_D6), W__NOTE(_E6), B__NOTE(_D6), W__NOTE(_D6), W__NOTE(_G6), B__NOTE(_F6), W__NOTE(_G6), W__NOTE(_A6), B__NOTE(_B6),
 
+#define E1M1_DOOM  \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_E4 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_D4 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_C4 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_BF3), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_B3 ), \
+    Q__NOTE(_C4 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_E4 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_D4 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_C4 ), \
+    Q__NOTE(_E3 ), \
+    Q__NOTE(_E3 ), \
+    W__NOTE(_BF3),
+
+#define AKUANKKA  \
+    H__NOTE(_FS4 ), Q__NOTE(_FS4 ), Q__NOTE(_GS4 ), H__NOTE(_FS4 ), H__NOTE(_DS4 ), H__NOTE(_FS4 ), H__NOTE(_GS4 ), H__NOTE(_FS4 ), H__NOTE(_DS4 ), \
+    H__NOTE(_FS4 ), Q__NOTE(_FS4 ), Q__NOTE(_GS4 ), H__NOTE(_FS4 ), H__NOTE(_DS4 ), H__NOTE(_FS4 ), H__NOTE(_E4 ), W__NOTE(_E4 ), W__NOTE(_REST ), \
+    H__NOTE(_E4 ), Q__NOTE(_E4 ), Q__NOTE(_FS4 ), H__NOTE(_E4 ), H__NOTE(_CS4 ), H__NOTE(_E4 ), H__NOTE(_FS4 ), H__NOTE(_E4 ), H__NOTE(_CS4 ), \
+    H__NOTE(_E4 ), Q__NOTE(_E4 ), Q__NOTE(_FS4 ), H__NOTE(_E4 ), H__NOTE(_CS4 ), H__NOTE(_DS4 ), H__NOTE(_FS4 ), W__NOTE(_FS4 ), W__NOTE(_REST ), \
+    H__NOTE(_FS4 ), Q__NOTE(_FS4 ), Q__NOTE(_GS4 ), H__NOTE(_FS4 ), H__NOTE(_DS4 ), H__NOTE(_FS4 ), H__NOTE(_GS4 ), H__NOTE(_FS4 ), H__NOTE(_DS4 ), \
+    H__NOTE(_FS4 ), Q__NOTE(_FS4 ), Q__NOTE(_GS4 ), H__NOTE(_A4 ),  H__NOTE(_FS4 ),  H__NOTE(_GS4 ),  H__NOTE(_B4 ),  W__NOTE(_B4 ),  W__NOTE(_REST ), \
+    H__NOTE(_B4 ), H__NOTE(_B4 ), H__NOTE(_AS4 ), H__NOTE(_GS4 ), H__NOTE(_FS4 ), H__NOTE(_FS4 ), H__NOTE(_E4 ), H__NOTE(_DS4 ), \
+    H__NOTE(_CS4 ), Q__NOTE(_DS4 ), Q__NOTE(_E4 ), H__NOTE(_DS4 ), H__NOTE(_CS4 ), W__NOTE(_B3 )
+
 /* Removed sounds
  +   This list is here solely for compatibility, so that removed songs don't just break things
  *   If you think that any of these songs were wrongfully removed, let us know and provide
